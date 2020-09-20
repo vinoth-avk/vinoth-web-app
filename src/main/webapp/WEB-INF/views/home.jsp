@@ -7,16 +7,14 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-			<h1>DevOps Traning Mohanraj Vellingiri</h1>
-			<h1>DevOps Traning	12 09 2020</h1>
-			<h1>DevOps Traning  12 09 2020</h1>
-			<h1>DevOps Traning Mohanraj Vellingiri</h1>
-			<h1>Devops Training Nallaperumal TN	</h1>
-			<h1>Devops Training Vijay AP	</h1>
-			<h1>Updated by Mohanraj</h1>
-			<h1>Change for TouchScreen UI	</h1>
-			<h1>DevOps Training Mohit Kambam</h1>
-			<h1> DevOps Training 12 09 2020 Mohit Kambam</h1>
+			<h1>DevOps Traning vinothkumar.ak</h1>
+			<h2>DevOps Traning vinothkumar.ak</h2>
+			<h3>DevOps Traning vinothkumar.ak</h3>
+			<h4>DevOps Traning vinothkumar.ak</h4>
+			<h5>Devops Training vinothkumar.ak</h5>
+			<h3>Devops Training vinothkumar.ak</h3>
+			<h2>Devops Training vinothkumar.ak</h2>
+			<h1>Devops Training vinothkumar.ak</h1>
 			My New Code is here for UI
 			<div>
 				<p class="well">
