@@ -7,7 +7,7 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-			<h1>DevOps Traning vinothkumar.ak</h1>
+			<h1>vinothTraning vinothkumar.ak</h1>
 			<h2>DevOps Traning vinothkumar.ak</h2>
 			<h3>DevOps Traning vinothkumar.ak</h3>
 			<h4>DevOps Traning vinothkumar.ak</h4>
